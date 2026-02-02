@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Iftekher
 
-🚀 **Web Application Developer**  
-💡 Building scalable, secure, and high-performance web applications
+ Web Application Developer  
+ Building scalable, secure, and high-performance web applications
 
 ---
 
